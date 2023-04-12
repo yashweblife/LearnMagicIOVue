@@ -1,0 +1,7 @@
+{
+  "name": "learnmagiciovue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
